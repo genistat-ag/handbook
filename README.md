@@ -19,3 +19,4 @@ It doesn't always cover the most cutting edge results, but it gets updated from 
 
 * [Values](values.md)
 * [Communication](communication.md)
+* [Library](library.md)
