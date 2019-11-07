@@ -3,6 +3,8 @@
 The library contains links to articles and books that have influenced us.
 It is not required reading, but a good place to start.
 
+Let Basil know if you would like to read one of the books. He will organise a copy.
+
 ## Articles
 * [Maker's schedule, Manager's schedule](http://www.paulgraham.com/makersschedule.html)
 
