@@ -17,5 +17,5 @@ It doesn't always cover the most cutting edge results, but it gets updated from 
 
 ## Sections
 
-* Values
-* Communication
+* [Values](values.md)
+* [Communication](communication.md)
