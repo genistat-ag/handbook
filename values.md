@@ -20,10 +20,10 @@ We admit mistakes. We praise colleagues.
 
 We take joy from creating things that work. 
 
-Finished artefacts is how we measure our progress.
+We measure our progress through finished work.
 
 We know the inherent difficulty in creating something that works, that is robust, fast and elegant.
-We know we need to make trade-offs and we try to improve our craft continuously.
+We know we need to make trade-offs, and we try to improve our craft continuously.
 
 When in doubt, do.
 "It's better to get forgiveness than permission."
