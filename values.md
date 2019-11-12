@@ -1,13 +1,10 @@
 # Values
 
-## We are kind
+## We care
 
-We are kind to our clients and partners. 
-But more importantly, we are kind to our colleagues and to ourselves.
-Being kind allows everybody to feel at ease and do their best work.
-It's also more fun.
+We care about our clients and partners.
 
-We are kind, but not weak. We don't avoid conflict but make it about the cause and not the person. 
+We care about the well-being of our colleagues and our own.
 
 ## We are straightforward
 
