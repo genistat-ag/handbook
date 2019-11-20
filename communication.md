@@ -101,7 +101,7 @@ move fast where needed, we do two things:
 
 We use GitHub issues to track and discuss issues. We use labels to
 assign issues to the cycle project that we are working on. Create labels
-with the following format: `C{cycle_number}: {cycle_abbreviation}`. A
+with the following format: `C{cycle_number}: {project_abbreviation}`. A
 label for the Politician Map project in cycle one would have been `C1:
 PM`.
 
