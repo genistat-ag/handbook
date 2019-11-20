@@ -99,13 +99,13 @@ move fast where needed, we do two things:
 
 ### 🎟 Issue tracking 
 
-We use GitHub issues to track and discuss issues. We use labels to
-assign issues to the cycle project that we are working on. Create labels
+We use GitHub issues to track and discuss issues. We use milestones to
+assign issues to the cycle project that we are working on. Create miletones
 with the following format: `C{cycle_number}: {project_abbreviation}`. A
-label for the Politician Map project in cycle one would have been `C1:
+milestone for the Politician Map project in cycle one would have been `C1:
 PM`.
 
-Following ShapeUp, we also use labels to assign issues to
+Following ShapeUp, we use labels to assign issues to
 [scopes](https://basecamp.com/shapeup/3.3-chapter-11).
 
 ### 🔭 Planning                                                  
