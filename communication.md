@@ -110,7 +110,7 @@ Following ShapeUp, we use labels to assign issues to
 
 ### 🔭 Planning                                                  
 
-To plan we use GitHub Issues with the `💡 Pitch` or `🗣 Discussion`
+To plan we use GitHub Issues with the `Pitch` or `Discussion`
 label in the Genistat HQ project.
 
 If we want a face-to-face discussion, we do so and document the results
@@ -134,13 +134,13 @@ We have different types of knowledge that we want to share.
 We use GitHub Issues for knowledge that we want to share internally. We
 use the following labels:
 
-*  `📣 Announcement` for when things change , r we took an important
+*  `Announcement` for when things change , r we took an important
    decision.
-*  `✨fyi` for information that does not warrant an announcement but
+*  `fyi` for information that does not warrant an announcement but
    some might still find useful.
-*  `😎 Cool stuff` for cool libraries or articles that you want to
+*  `Cool stuff` for cool libraries or articles that you want to
    share with the team.
-*  `❤️ Heartbeat` when you want to give an update on how things are
+*  `Heartbeat` when you want to give an update on how things are
    going
 
 Sometimes, we might want to share knowledge that is not documentation
@@ -159,8 +159,8 @@ or join Genistat later.
 ### 👀 Retrospective                        
 
 Retrospectives happen every cool-down. We write one retrospective for
-each cycle project. We post them as a GitHub Issue with the `👀
-Retrospective` label.
+each cycle project. We post them as a GitHub Issue with the `Retrospective`
+label.
 
 A retrospective should contain a section that describes what went well
 and what didn't. Those learnings inform our work in the next cycle,
@@ -172,7 +172,7 @@ Spending quality time together is essential to us. This includes short
 events like dinners and going to the movies together. However, we also
 plan on doing more extended activities, where we travel somewhere
 together and work remotely. Discussions for social events happen as
-GitHub Issues with the `😍 Team building` label.
+GitHub Issues with the `Team building` label.
 
 ### 🗣 Feedback     
 
