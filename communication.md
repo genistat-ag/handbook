@@ -22,6 +22,9 @@ Our communication process has to serve the following purposes.
 
 ### 🚨 Alerting            
 
+*This section describes how we plan on handling alerting. It will be 
+updated once we have implemented it.*
+
 For critical alerts, we use **automated phone calls**. Since smartphones
 can be set to silent and still ring for specific numbers, this allows us
 to unwind, knowing that we will hear our phone if something critical
