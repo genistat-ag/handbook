@@ -33,7 +33,7 @@ needs our attention.
 ### 🔀 Ad-Hoc Coordination                                            
 
 For ad-hoc coordination, we use **Slack**. Since real-time chat, and
-especially the notifications, can be disruptive to productivity, we only
+especially notifications, can be disruptive to productivity, we only
 use it for messages that have a short lifetime. Everything else should
 be handled in code reviews, issues, a GitHub Gist or `.md` files.
 
@@ -42,10 +42,9 @@ should be in the "Do Not Disturb" mode most of the time. If we need
 somebody's attention urgently, we walk over to that person or give them
 a phone call on WhatsApp.
 
-See below the list of channels that we start with. Channels that
-everybody should subscribe to are in **bold**. This list can be extended
-if necessary, but especially the list of channels that require everybody
-to be subscribed should be kept short.
+See below the list of channels that we start with. Everybody should be 
+subscribed to the **boldfaced** channels. This list can be extended if
+necessary, but should be kept short.
 
 #### Notification channels:
 
