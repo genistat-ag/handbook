@@ -23,7 +23,9 @@ We take joy from creating things that work.
 We measure our progress through finished work.
 
 We know the inherent difficulty in creating something that works, that is robust, fast and elegant.
+
 We don't try to reinvent the wheel, but find smart ways to combine existing solutions.
+
 We know we need to make trade-offs, and we try to improve our craft continuously.
 
 When in doubt, do.
