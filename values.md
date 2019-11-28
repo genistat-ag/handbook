@@ -20,6 +20,9 @@ We take joy from creating things that work.
 We measure our progress through finished work.
 
 We know the inherent difficulty in creating something that works, that is robust, fast and elegant.
+
+We don't try to reinvent the wheel, but find smart ways to combine existing solutions.
+
 We know we need to make trade-offs, and we try to improve our craft continuously.
 
 When in doubt, do.
@@ -28,3 +31,9 @@ When in doubt, do.
 ## We are independent
 
 We encourage independent thought and original thinking.
+
+## We are curious
+
+We are curious about new technologies and about what's going on in the company and the world in general.
+We show interest in the work of our colleagues.
+Before we begin with a new project or start working with a new technology, we do profound research and try to figure out how others have tackled similar challenges.
