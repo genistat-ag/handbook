@@ -35,5 +35,7 @@ We encourage independent thought and original thinking.
 ## We are curious
 
 We are curious about new technologies and about what's going on in the company and the world in general.
+
 We show interest in the work of our colleagues.
+
 Before we begin with a new project or start working with a new technology, we do profound research and try to figure out how others have tackled similar challenges.
