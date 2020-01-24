@@ -144,6 +144,9 @@ use the following labels:
    share with the team.
 *  `Heartbeat` when you want to give an update on how things are
    going
+   
+Mark an issue as read through the 👀 reaction to let people know they
+are not talking into empty space.
 
 Sometimes, we might want to share knowledge that is not documentation
 but is supposed to have a longer lifespan than a GitHub issue. This
