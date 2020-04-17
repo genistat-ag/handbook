@@ -4,8 +4,8 @@
 
 Our communication process has to serve the following purposes.
 
-| #  | Purpose                 | Example                                                                                                                                                                  | Update Frequency                 | Validity                     |
-|:---|:------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------------------------------|:-----------------------------|
+| #  | Purpose                | Example                                                                                                                                                                  | Update Frequency                 | Validity                     |
+|:---|:-----------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------------------------------|:-----------------------------|
 | 1  | 🚨 Alerting            | THE SERVERS ARE ON FIRE!                                                                                                                                                 | Hopefully every couple of months | 10 minutes                   |
 | 2  | 🔀 Ad-Hoc Coordination | "Where can I find this library you told me about?""Who's coming for lunch?""I'll work from home tomorrow."                                                               | Hourly                           | 1-2 hours                    |
 | 3  | 👋 Notifications       | RTS Deux from yesterday was sent out just now.                                                                                                                           | Hourly                           | 1-2 hours                    |
@@ -22,7 +22,7 @@ Our communication process has to serve the following purposes.
 
 ### 🚨 Alerting            
 
-*This section describes how we plan on handling alerting. It will be 
+*This section describes how we plan on handling alerting. It will be
 updated once we have implemented it.*
 
 For critical alerts, we use **automated phone calls**. Since smartphones
@@ -33,16 +33,16 @@ needs our attention.
 ### 🔀 Ad-Hoc Coordination                                            
 
 For ad-hoc coordination, we use **Slack**. Since real-time chat, and
-especially notifications, can be disruptive to productivity, we only
-use it for messages that have a short lifetime. Everything else should
-be handled in code reviews, issues, a GitHub Gist or `.md` files.
+especially notifications, can be disruptive to productivity, we only use
+it for messages that have a short lifetime. Everything else should be
+handled in code reviews, issues, a GitHub Gist or `.md` files.
 
 We do not require people to be online on Slack. If you are online, you
 should be in the "Do Not Disturb" mode most of the time. If we need
 somebody's attention urgently, we walk over to that person or give them
 a phone call on WhatsApp.
 
-See below the list of channels that we start with. Everybody should be 
+See below the list of channels that we start with. Everybody should be
 subscribed to the **boldfaced** channels. This list can be extended if
 necessary, but should be kept short.
 
@@ -102,18 +102,24 @@ move fast where needed, we do two things:
 ### 🎟 Issue tracking 
 
 We use GitHub issues to track and discuss issues. We use milestones to
-assign issues to the cycle project that we are working on. Create miletones
-with the following format: `C{cycle_number}: {project_abbreviation}`. A
-milestone for the Politician Map project in cycle one would have been `C1:
-PM`.
+assign issues to the cycle project that we are working on. Create
+milestones with the following format: `C{cycle_number}:
+{project_abbreviation}`. A milestone for the Politician Map project in
+cycle one would have been `C1: PM`.
 
 Following ShapeUp, we use labels to assign issues to
 [scopes](https://basecamp.com/shapeup/3.3-chapter-11).
 
 ### 🔭 Planning                                                  
 
-To plan we use GitHub Issues with the `Pitch` or `Discussion`
-label in the Genistat HQ project.
+To plan we use GitHub Issues with the `Pitch` or `Discussion` label in
+the `headquarters` project. We use labels to indicate if a discussion
+belongs to an overarching project. For example, a planning discussion on
+the [ReTV project](https://retv-project.eu) should have the label
+`ReTV`.
+
+We plan using GitHub Issues directly in a repository when it only
+affects that particular repository.
 
 If we want a face-to-face discussion, we do so and document the results
 at a later time.
@@ -138,13 +144,12 @@ use the following labels:
 
 *  `Announcement` for when things change , r we took an important
    decision.
-*  `fyi` for information that does not warrant an announcement but
-   some might still find useful.
-*  `Cool stuff` for cool libraries or articles that you want to
-   share with the team.
-*  `Heartbeat` when you want to give an update on how things are
-   going
-   
+*  `fyi` for information that does not warrant an announcement but some
+   might still find useful.
+*  `Cool stuff` for cool libraries or articles that you want to share
+   with the team.
+*  `Heartbeat` when you want to give an update on how things are going
+
 Mark an issue as read through the 👀 reaction to let people know they
 are not talking into empty space.
 
@@ -164,8 +169,8 @@ or join Genistat later.
 ### 👀 Retrospective                        
 
 Retrospectives happen every cool-down. We write one retrospective for
-each cycle project. We post them as a GitHub Issue with the `Retrospective`
-label.
+each cycle project. We post them as a GitHub Issue with the
+`Retrospective` label.
 
 A retrospective should contain a section that describes what went well
 and what didn't. Those learnings inform our work in the next cycle,
