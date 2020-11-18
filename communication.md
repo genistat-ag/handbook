@@ -148,7 +148,7 @@ use the following labels:
    might still find useful.
 *  `Cool stuff` for cool libraries or articles that you want to share
    with the team.
-*  `Heartbeat` when you want to give an update on how things are going
+*  `Heartbeat` when you want to give an update on how things are going. See the separate section below on how we write heartbeats. 
 
 Mark an issue as read through the 👀 reaction to let people know they
 are not talking into empty space.
@@ -191,3 +191,13 @@ Feedback is important to us. Knowing where we stand gives us clarity on
 what can be improved. We run period performance reviews based on peer
 feedback every three months. The primary tool are questionnaires, where
 we rate the work of our colleagues as well as our own.
+
+## Showing progress through heartbeats
+
+Showing progress is essential to keep the whole team informed and to spot projects that have gotten stuck. Read the chapter [Show Progress](https://basecamp.com/shapeup/3.4-chapter-13) from Shape up before continuing.
+
+We show the progress in the main GitHub issue of each project. The minimal progress update is an image of the current hill chart. We use [hillchart.app](https://hillchart.app/) to create and update them. We must copy an actual image into the issue, as this allows us to compare updates and see which scopes are moving and which are stuck.
+
+Feel free to add a couple of lines of text that give more context.
+
+Ideally, we should post an update every Friday. This schedule is not set in stone, though; different projects might require different update frequencies.
